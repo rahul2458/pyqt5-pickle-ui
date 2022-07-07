@@ -11,4 +11,4 @@ to the "sip" directory before starting to build PyQt5.
 ## Login UI
 
  Login
-![Login](images/Capture.png)
+![Login](images/Capture.PNG)
