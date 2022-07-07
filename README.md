@@ -10,3 +10,8 @@ pip install PyQt5
 
  Login
 ![Login](images/Capture.PNG)
+
+## Main UI
+
+UI
+![UI](images/Capture1.PNG)
