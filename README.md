@@ -1,18 +1,6 @@
 PyQt5 - Python Bindings for the Qt v5 Toolkit
 
 
-INTRODUCTION
-
-These are the Python bindings for Qt v5.  Python v2.6 or later is required.
-You must also have the SIP Python bindings generator installed.  PyQt4 is also
-available which supports earlier versions of Python, and Qt v4 and the
-compatible subset of Qt v5.
-
-The homepage is https://www.riverbankcomputing.com/software/pyqt/.
-
-The homepage of SIP is https://www.riverbankcomputing.com/software/sip/.
-
-
 COMMERCIAL VERSION
 
 If you have the Commercial version of PyQt5 then you should also have a
