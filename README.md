@@ -1,9 +1,9 @@
 PyQt5 - Python Bindings for the Qt v5 Toolkit
 
-## Pyqt5 installation
+## installation
 
 ```sh
-pip install PyQt5
+pip install -r requeriments.txt
 ```
 
 ## Login UI
